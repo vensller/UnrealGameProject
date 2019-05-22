@@ -1323,3 +1323,144 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.22-00.29.46:977][681]LogPlayLevel: Display: Destroying online subsystem :Context_10
 [2019.05.22-00.29.49:879][744]LogSlate: Window 'Message Log' being destroyed
 [2019.05.22-00.29.49:906][744]LogSlate: Window 'Message Log' being destroyed
+[2019.05.22-00.32.34:344][382]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 8X8)
+[2019.05.22-00.32.34:345][382]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 8X8)
+[2019.05.22-00.32.34:345][382]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 8X8)
+[2019.05.22-00.32.34:345][382]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 8X8)
+[2019.05.22-00.32.34:346][382]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 8X8)
+[2019.05.22-00.32.34:346][382]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 8X8)
+[2019.05.22-00.32.34:346][382]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 8X8)
+[2019.05.22-00.32.34:347][382]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 8X8)
+[2019.05.22-00.32.34:347][382]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 8X8)
+[2019.05.22-00.32.34:347][382]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 8X8)
+[2019.05.22-00.32.34:347][382]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 8X8)
+[2019.05.22-00.32.34:348][382]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 8X8)
+[2019.05.22-00.32.34:348][382]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 8X8)
+[2019.05.22-00.32.34:348][382]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 8X8)
+[2019.05.22-00.32.34:349][382]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 8X8)
+[2019.05.22-00.32.34:349][382]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 8X8)
+[2019.05.22-00.32.34:349][382]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 8X8)
+[2019.05.22-00.32.34:350][382]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 8X8)
+[2019.05.22-00.32.34:350][382]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 8X8)
+[2019.05.22-00.32.34:350][382]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 8X8)
+[2019.05.22-00.32.34:351][382]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 8X8)
+[2019.05.22-00.32.34:351][382]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 8X8)
+[2019.05.22-00.32.34:351][382]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 8X8)
+[2019.05.22-00.32.34:352][382]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 8X8)
+[2019.05.22-00.32.34:352][382]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 8X8)
+[2019.05.22-00.32.34:352][382]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 8X8)
+[2019.05.22-00.32.34:353][382]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 8X8)
+[2019.05.22-00.32.34:353][382]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 8X8)
+[2019.05.22-00.32.34:353][382]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 8X8)
+[2019.05.22-00.32.34:353][382]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 8X8)
+[2019.05.22-00.32.34:354][382]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 8X8)
+[2019.05.22-00.32.34:354][382]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 8X8)
+[2019.05.22-00.32.34:354][382]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2019.05.22-00.32.34:828][382]LogSavePackage: Moving '../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Saved/Fase013A6FC59A4559C083776661A3C32873B3.tmp' to '../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Content/ThirdPersonBP/Maps/Fase01.umap'
+[2019.05.22-00.32.34:892][382]LogSavePackage: Moving '../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Saved/Fase01_BuiltData3678CF184C32E076BAC51FAC0718D2EF.tmp' to '../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Content/ThirdPersonBP/Maps/Fase01_BuiltData.uasset'
+[2019.05.22-00.32.39:110][471]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Fase02.Fase02
+[2019.05.22-00.32.39:135][471]Cmd: MAP LOAD FILE="../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Content/ThirdPersonBP/Maps/Fase02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.22-00.32.39:135][471]LightingResults: New page: Lighting Build
+[2019.05.22-00.32.39:136][471]LoadErrors: New page: Loading map: Fase02.umap
+[2019.05.22-00.32.39:137][471]MapCheck: New page: Map Check
+[2019.05.22-00.32.39:137][471]LightingResults: New page: Lighting Build
+[2019.05.22-00.32.39:178][471]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.22-00.32.39:231][471]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.22-00.32.39:231][471]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2019.05.22-00.32.39:232][471]LogFileHelpers: Loading map 'Fase02' took 0.099
+[2019.05.22-00.37.48:497][229]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/InterfacesUsuario/MainMenu.MainMenu
+[2019.05.22-00.42.39:936][638]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Fase02' took 0.058
+[2019.05.22-00.42.39:937][638]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InterfacesUsuario/MainMenu] ([1] browsable assets)...
+[2019.05.22-00.42.39:937][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/InterfacesUsuario/MainMenu]
+[2019.05.22-00.42.39:948][638]LogSavePackage: Moving '../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Saved/MainMenu_Auto2D5CD50DA42EB89940FAEC6B2E999AD0A.tmp' to '../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Saved/Autosaves/Game/InterfacesUsuario/MainMenu_Auto2.uasset'
+[2019.05.22-00.42.39:949][638]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InterfacesUsuario/Options] ([1] browsable assets)...
+[2019.05.22-00.42.39:949][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/InterfacesUsuario/Options]
+[2019.05.22-00.42.39:957][638]LogSavePackage: Moving '../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Saved/Options_Auto26E92B3E74D65DF6282F536B024AD8D35.tmp' to '../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Saved/Autosaves/Game/InterfacesUsuario/Options_Auto2.uasset'
+[2019.05.22-00.42.39:958][638]LogFileHelpers: Auto-saving content packages took 0.021
+[2019.05.22-00.44.41:219][ 29]LogVSAccessor: Warning: Couldn't open file 'C:/Program Files/Epic Games/UE_4.21/Engine/Source/Runtime/UMG/Public/Components/Button.h'.
+[2019.05.22-00.44.41:219][ 29]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.05.22-00.44.41:224][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:224][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:224][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:224][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:224][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:224][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:224][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:225][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:226][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:227][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:228][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:228][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:228][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:228][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:228][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:228][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:228][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:228][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:228][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:228][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:229][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:229][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:229][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:229][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:229][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:229][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:229][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:229][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:229][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:229][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:230][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:230][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:230][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:230][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:230][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:230][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:230][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:230][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:230][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:230][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:231][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:231][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:241][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:252][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:252][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.44.41:252][ 29]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.22-00.45.39:585][263]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.22-00.45.42:283][319]LogEditorTransaction: Undo Edit Shadow Color
+[2019.05.22-00.45.46:926][469]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.22-00.46.02:716][806]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.22-00.46.05:484][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InterfacesUsuario/MainMenu" FILE="../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Content/InterfacesUsuario/MainMenu.uasset" SILENT=true
+[2019.05.22-00.46.05:496][862]LogSavePackage: Moving '../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Saved/MainMenuCEAF37584E1097FA06C490BF33962068.tmp' to '../../../../../../Users/10516125940/Documents/github/UnrealGameProject/Trabalho/Content/InterfacesUsuario/MainMenu.uasset'
